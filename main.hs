@@ -15,4 +15,4 @@ bigFloat = 3.99999999999 + 0.00000000005
 always5 :: Int
 always5 = 5
 
-helloWorld = "Hello World"
+hello = "Hello World"
